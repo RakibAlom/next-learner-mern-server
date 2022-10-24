@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Full-Stack Web Development",
+    "category": "Web Development",
+    "description": "There are some details about courses",
+    "teacher": "Rakib Alom",
+    "publish_date": "10 October, 2022"
+  },
+  {
+    "id": 2,
+    "name": "Advance MERN-Stack Developer",
+    "category": "Web Development",
+    "description": "There are some details about courses",
+    "teacher": "Rabid",
+    "publish_date": "11 November, 2022"
+  },
+  {
+    "id": 3,
+    "name": "Advance Search Engine Optimization (SEO)",
+    "category": "Digital Marketing",
+    "description": "There are some details about courses",
+    "teacher": "SEO Expert",
+    "publish_date": "5 June, 2021"
+  }
+]
