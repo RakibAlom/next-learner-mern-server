@@ -22,8 +22,14 @@ app.get('/courses/:slug', (req, res) => {
   res.send(course)
 })
 
-app.get('/blogs', (req, res) => {
+app.get('/blog', (req, res) => {
   res.send(blogs)
+})
+
+app.get('/blog/:slug', (req, res) => {
+  const slug = req.params.slug;
+  const blog = blogs.find(item => item.slug === slug)
+  res.send(blog)
 })
 
 app.listen(port, () => {
