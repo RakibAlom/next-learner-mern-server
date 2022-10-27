@@ -6,10 +6,13 @@ Our Next-Learner API data server. Create an online video course, reach students 
 
 **Single Course URL:** https://next-learner-server.vercel.app/courses/mern-stack-complete-blog-application-from-scratch-2022
 
-## Courses API
+## Blogs API
 **Blogs API URL:** https://next-learner-server.vercel.app/blog
 
 **Single Blog URL Expamle:** https://next-learner-server.vercel.app/blog/what-is-node-how-does-node-work
+
+## Live Website
+**Website URL:** https://next-learner-app.web.app/
 
 ## Copyright
 Next Learner: Future Tech Rider - Develop by Rakib Alom
