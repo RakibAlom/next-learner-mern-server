@@ -8,6 +8,7 @@ Our Next-Learner API data server. Create an online video course, reach students 
 
 ## Courses API
 **Blogs API URL:** https://next-learner-server.vercel.app/blog
+
 **Single Blog URL Expamle:** https://next-learner-server.vercel.app/blog/what-is-node-how-does-node-work
 
 ## Copyright
